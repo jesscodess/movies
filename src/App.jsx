@@ -49,7 +49,6 @@ const App = () => {
       <h2>All movies</h2>
       {errorMessage && <p className='text-red-500'>{errorMessage}</p>}
     </section>
-
     </main>
   )
 }
